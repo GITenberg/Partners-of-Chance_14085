@@ -1,0 +1,29 @@
+_repo: Partners-of-Chance_14085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knibbs, Henry Herbert
+    aliases:
+    - Knibbs, H. H. (Henry Herbert)
+    - Knibbs, Harry Herbert
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '4257'
+    url: http://www.gutenberg.org/2009/agents/4257
+description: Cover -- Contents.
+gutenberg_issued: '2004-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: Partners of Chance
+url: http://www.gutenberg.org/ebooks/14085
