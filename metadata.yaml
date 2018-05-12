@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4257'
     url: http://www.gutenberg.org/2009/agents/4257
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14085#Partners-of-Chance
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
 identifiers:
